@@ -1,0 +1,8 @@
+Remove-Item -Path "C:\Users\e*\AppData\Local\NVIDIA Corporation\" -Recurse
+
+#change the e in filepath to s for student profiles
+
+#Get-ChildItem -path "C:\Users\e*\" works to find all e# profiles in users
+
+
+
